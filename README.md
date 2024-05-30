@@ -6,7 +6,7 @@ The first thing to do is to clone the repository:
 
 ```sh
 git clone https://--------------------
-cd RND/test_oauth2
+cd test_oauth2
 ```
 
 Create a virtual environment to install dependencies in and activate it:
