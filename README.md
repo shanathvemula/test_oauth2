@@ -4,8 +4,8 @@
 
 The first thing to do is to clone the repository:
 
-```sh
-git clone [https://--------------------](https://github.com/shanathvemula/test_oauth2.git)
+```shell
+git clone https://github.com/shanathvemula/test_oauth2.git
 cd test_oauth2
 ```
 
