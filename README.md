@@ -5,7 +5,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-git clone https://--------------------
+git clone [https://--------------------](https://github.com/shanathvemula/test_oauth2.git)
 cd test_oauth2
 ```
 
